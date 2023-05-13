@@ -1,6 +1,6 @@
 # Reto___9___
 ## Holaaaaaaaa :D
-###Ejercicips
+### Ejercicios
 ### *Ej1* :star:
 ```ruby
 # 1
